@@ -21,7 +21,9 @@ This project is a GUI focused Java application that allows users to solve, save,
 -	Standard Java I/O libraries for file handling
 
 # Usage Instructions:
+
 # File Pathway Tree/ File Directory:
+Please check the File Pathway Tree File found in this project's repository.
 
 ## Installation & Setup:
 1.	Ensure you have the Java Development Kit (JDK) 11 or higher installed. And is inside of a runnable IDE (Such as IntelliJ IDEA 2025.2).
