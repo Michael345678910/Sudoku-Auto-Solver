@@ -14,8 +14,8 @@ This project is a GUI focused Java application that allows users to solve, save,
 -	Load puzzles from a text file, allowing the user to continue solving/testing with the puzzle
 -	User-friendly GUI with easily accessible controls and buttons
 
-# Product Images:
-![alt text](ReadMe File Images/Sudoku Solver Load.png)
+# Current Finished Product Images:
+![alt text](ReadMe_File_Images/S)
 
 ## Technologies Used:
 -	Java SE (Standard Edition)
