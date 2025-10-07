@@ -17,11 +17,11 @@ This project is a GUI focused Java application that allows users to solve, save,
 # Current Finished Product Images:
 
 ### Initial Sudoku Solver Main GUI:
-![Input Validation Example](ReadMe_File_Images/Sudoku_Solver_Start.png) 
+![Sudoku Solver Main GUI](ReadMe_File_Images/Sudoku_Solver_Start.png) 
 ### Input Sudoku Puzzle/Loaded Puzzle:  
 ![Input Validation Example](ReadMe_File_Images/Sudoku_Solver_Load.png) 
 ### Solved Puzzle Example:
-![Input Validation Example](ReadMe_File_Images/Sudoku_Solver_Solve.png) 
+![Solved Puzzle Example](ReadMe_File_Images/Sudoku_Solver_Solve.png) 
 
 ## Technologies Used:
 -	Java SE (Standard Edition)
